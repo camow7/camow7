@@ -14,7 +14,7 @@ I spend most of my days jumping between LabVIEW, IEC 61131-9 and JavaScript/Type
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=camow7&langs_count=6&theme=tokyonight)]()
 
 
-## Competitve Coding
+## Competitive Coding
 I like doing the odd competitve coding challenge. If you're keen to go head-to-head add my on CodinGame and we can tee up a private clash. You can checkout out my profile by clicking the CodinGame logo below
 
 [![CodinGame Profile](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1410916443/e1aka8oyy6vnsbrt8ogw.png)](https://www.codingame.com/profile/a7820cd436bd0d793e21d00c4be39c787251091)
