@@ -20,7 +20,7 @@ I like doing the odd competitve coding challenge. If you're keen to go head-to-h
 [![CodinGame Profile](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1410916443/e1aka8oyy6vnsbrt8ogw.png)](https://www.codingame.com/profile/a7820cd436bd0d793e21d00c4be39c787251091)
 
 ## Community
-I love getting involved with the local Tech Community. I run a local tech meetup called [Blast Furnace](blastfurnace.com.au) and get involved with other in the area. 
+I love getting involved with the local Tech Community. I run a local tech meetup called [Blast Furnace](https://blastfurnace.com.au) and get involved with other in the area. 
 
 Reach out to me on [Meetup](https://www.meetup.com/members/257502587/)
 
